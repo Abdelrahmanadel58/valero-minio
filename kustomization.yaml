@@ -4,6 +4,6 @@ resources:
 - manifests/service.yaml
 - manifests/job.yaml
 - manifests/pvc.yaml
-#- manifests/secret.yaml
+- manifests/secret.yaml
 generatorOptions:
   disableNameSuffixHash: true
